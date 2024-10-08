@@ -2,7 +2,7 @@
 This is a downloading tool intended to download neuron metadata and swc files from [Neuromorpho.org](https://neuromorpho.org/). This is one of the easiest tools to use to download neuron morphology data.
 
 ## Installation
-Were you expecting insane installation guides? Well, all you need for this is python>3.17
+Were you expecting insane installation guides? Well, all you need for this is python>3.7
 
 ## Usage
 Use the following command for running the tool.
